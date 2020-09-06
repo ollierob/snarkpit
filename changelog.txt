@@ -1,0 +1,71 @@
+15/05/05:
+* Spell checker added to forums/comments
+
+30/05/05:
+* Forums will now remember which topics you've read (to some degree).
+
+17/05/05:
+* News editing bug fixed
+* Password reset bug fixed
+
+16/05/05:
+* Forum tweaks with up & coming SnarkPower forum release in mind.
+
+14/05/05:
+* Forum bug fixes (e.g. notifying you about replies)
+
+10/05/05:
+* Various admin-things fixed.
+
+09/05/05:
+* Entity search results bug fixed
+
+02/05/05:
+* Allowed comments to be posted on user submitted models
+* You can now 'abandon' your maps, but they no longer count towards your SnarkMarks
+
+27/04/05:
+* Minor message security holes fixed.
+
+25/04/05:
+* Tweaked forum post saving code so it doesn't save messages under 32 characters long
+* Added a new batch compile generator
+
+24/04/05:
+* Added an 'insert symbol' option to IE WYSIWYG forum editor
+* Fixed automatic typed forum post saving/loading
+
+23/04/05:
+* Fixed topic chapters bug
+* Minor maps.php aesthetic changes
+
+19/04/05:
+* Added map watch/review options to mapinfo page
+
+18/04/05:
+* Updated layout of mapinfo page
+* Updated screenshot popup and added previous/next buttons for externally hosted images
+
+17/04/05:
+* Uploaded missing files and some pits
+* Tried to fix strange post submitting/appending bug
+
+10/04/05:
+* Can download all messages in your PM inbox
+
+04/04/05:
+Host changes, so website offline for a few days. Spent the time to make many changes/improvements:
+* Did some 'under-the-bonnet' page-building tweaks and improvements.
+* Improved theme support, including more CSS stuff, and fixed 'basic' theme.
+* Added 'condensate' theme.
+* Forum display now supports custom themes (c.f. custom topic themes)
+* New 'undo', 'redo' and 'ordered list' buttons added to WYSIWYG forum poster.
+* When you add a map for a mod that has different gameplay modes, you are now taken to a page to specify these automatically.
+* Random map/map search positioning altered to look a bit better.
+* Let users specify how time is displayed- either 'time ago', or actual time according to their timezone.
+* Allow users to request their maps be mirrored here (tick the box when editing/adding a map).
+* login.php now offers the option to encrypt your password when submitting.
+* login.php will now forward you to the correct page you were viewing before clicking the 'login' link.
+* Additions to the 'pit browser, such as thumbnail generation and multiple file uploads.
+* Updates to various admin pages/functions, including a better comment moderation system.
+* Maps help updated.
