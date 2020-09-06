@@ -1,0 +1,33 @@
+<script>
+function pophelp(x) {
+	child = open(x,'popup','width=190,height=500,status=no,scrollbars=no,resizable=yes');
+	child.opener=this; child.focus();
+}
+</script>
+<table width="100%" cellspacing=0 cellpadding=0><tr><td align=right>
+<map name="map">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=3dwindow')" shape="rect" coords="43,61,364,311">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=2dwindow')" shape="polygon" coords="366,60,366,314,44,314,44,548,668,548,668,60">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=objects')" shape="rect" coords="680,65,800,195">
+
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=grid')" shape="rect" coords="4,38,80,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=windowstate')" shape="rect" coords="84,38,120,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=carve')" shape="rect" coords="125,38,150,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=group')" shape="rect" coords="152,38,210,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=hide')" shape="rect" coords="212,38,270,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=cutpaste')" shape="rect" coords="272,38,328,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=cordon')" shape="rect" coords="332,38,372,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=selection')" shape="rect" coords="375,38,412,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=texturelock')" shape="rect" coords="414,38,430,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=texturealignment')" shape="rect" coords="435,38,456,58">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=go')" shape="rect" coords="460,38,480,58">
+
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=select')" shape="rect" coords="4, 70, 38, 94">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=magnify')" shape="rect" coords="4, 98, 38, 128">
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=camera')" shape="rect" coords="4, 130, 38, 155">
+
+<area href="#img" onclick="pophelp('editing/content/worldcraft.php?i=entity')" shape="rect" coords="4, 165, 38, 190">
+
+</map>
+<a name="img"><img src="editing/content/worldcraft.jpg" usemap="#map" border=0></a>
+</td></tr></table>

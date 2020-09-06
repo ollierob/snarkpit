@@ -1,0 +1,50 @@
+<b>Laurie</b>: I'm not that interesting to interview, questions about "why did you do X" are generally answered with "It seemed like a good idea at the time". Well, I don't have to be up early tomorrow... so, sure, why not.
+</p><b>DesPlesda</b>: /me whips out his journalistic face
+</p><b>Laurie</b>: Eww. Where were you keeping that?
+</p><b>DesPlesda</b>: What got you into Half-Life programming?
+</p><b>Laurie</b>: I guess it started with Quake. I made levels for that, and generally had fun messing around with Quake C. When Half-Life came out, I started making levels for that.
+</p><b>DesPlesda</b>: Have you released any maps?
+</p><b>Laurie</b>: And I realised that the multisource was the infernal spawn of evil. It was getting in the way of all the interesting stuff I wanted to so, so I decided to make it possible to have any object be a master.</p>I haven't released any HL maps except little examples for Spirit. I have released a very unfinished mod for Quake 1, called Lunatec- that was about 5 years ago, when I was just finishing A-Levels.
+</p><b>DesPlesda</b>: The Half-Life community has reacted very well to the additions in Spirit. Did you expect it to be so popular?
+</p><b>Laurie</b>: Hell no. :) All the other mods around at the time were real games, you know, where you actually get something to play with your download. I had no idea whether a "pure code" mod would even be worthy of the news pages. So I made a very tentative post on the Wavelength forums, something like "I did a version of Half-Life where you can have red dot laser sights on your func_tanks, if anyone cares you can have a look at it here"...
+</p><b>DesPlesda</b>: And the rest is history. How much of the Spirit content is from forum posters with feature ideas?
+</p><b>Laurie</b>: Well, actually, my first posts on Wavelength got very little attention, until I put a demo level in with the dll. That would have been version 0.3, I think. It's hard to say how much of the content is suggested by other people.</p>Most of the suggestions I implement are things I've already thought about - but being asked to do it gives me a reason to get coding.The big exceptions recently would be the stuff for the Locus system, which nobody asked for, and nobody really understood for the first three releases...
+</p><b>DesPlesda</b>: Where do you see Spirit going in the future, both feature-wise and user-wise?
+</p><b>Laurie</b>: Tricky. As you probably know, my free time is going into Dark Truths right now - Spirit is on hold. I wouldn't like to see it die, though, so I'm still active in the Spirit forums. I'm generally trying to leave my options open. As for the users - well, I've been really pleased by the response I've had to Spirit 1.0. Now that I've finally put some documentation in, I'm getting a lot more people doing clever stuff with it. Which is nice to see. I'm kind of hoping that someone will take up my codebase and do their own set of improvements - Spirit of Spirit of Half-Life. :)
+</p><b>DesPlesda</b>: A few multiplayer maps are running Spirit. Did you anticipate anyone actually using it under MP, or was it a bonus surprise?
+</p><b>Laurie</b>: Oh, a total surprise. I've never had an opportunity to test it under MP, so I really don't have a clue what extra problems and issues it involves. For instance, the client-side prediction messes up MoveWith. That's really annoying.
+</p><b>DesPlesda</b>: If you could rid the world of online cheating, what method would you use, apart from <b><a href="?article=kfs">Ninja Death Squads</a></b>
+</p><b>Laurie</b>: Haha. Er... I'd rid the world of online cheating by changing the hearts of all the players so that they want to have fun, not just win.
+</p><b>DesPlesda</b>: No bizarre and wacky schemes?
+</p><b>Laurie</b>: That's not wacky? :)
+</p><b>DesPlesda</b>: Fair point. What is the most interesting thing that has happened to you while coding?
+</p><b>Laurie</b>: Hmm. Well, I guess that would be when I was at school. A guy came up to me and was trying to pick a fight, despite the fact that I was a lot bigger than him, and obviously busy. So he was just saying "come on, hit me!" and trying to push me off my chair. In the end I think I hit him with a manual.
+</p><b>DesPlesda</b>: What sort of manual?
+</p><b>Laurie</b>: Acorn RISC OS programmer's guide.
+</p><b>DesPlesda</b>: Nice choice.
+</p><b>Laurie</b>: Weighty but not too hard. After all, I didn't want him to complain to a teacher...
+</p><b>DesPlesda</b>: Like a phone book. Doesn't leave bruises. If there was one law you wanted to implement, what would it be?
+</p><b>Laurie</b>: Interesting... I'd probably want a law which banned the government from taking any contributions from private companies or individuals. We'd pay them well enough that they didn't have to, of course.
+</p><b>DesPlesda</b>: How's that language of yours doing? Laurelic, wasn't it?
+</p><b>Laurie</b>: Oh, that. :) I keep meaning to write down a list of rules for what syllables can be used to express what sounds. It's a bit complicated to remember otherwise. English has such inconsistent spelling rules.
+</p><i>The previous night... wibble wibble...</i>
+</p><b>Laurie</b>: Laurelic. That was going to be the name for my religion, but it works better for a language. ;)
+</p><b>DesPlesda</b>: Your religion?
+</p><b>Laurie</b>: "Thou Shalt Not Shove Haggis Down Thy Trousers On A Wednesday." I think that was basically the religion's only rule.
+</p><b>DesPlesda</b>: Wow. So a uni joke that died mercifully soon.
+</p><b>Laurie</b>: Yeah. The idea was, technically most people were Laurelians without knowing it...
+</p><b>DesPlesda</b>: "Verily, Lord, thou hast blessed my compiler for thine run time errors are but nonexistant..."
+</p><b>Laurie</b>: In the beginning, data was without form, and unformatted.
+<br>And god moved on the read head of the data.
+<br>And god said "Format C:"
+<br>And god parity checked the format, and saw that it was good.
+<br><i>wibble wibble...</i>
+</p><b>Laurie</b>: blimey.
+</p><b>DesPlesda</b>: What do you do when you're not feverishly hacking?
+</p><b>Laurie</b>: I'm an MSc student at the University of Hull, doing a Computer Programming Games course. So when I'm not feverishly hacking, I'm often feverishly hacking. The rest of the time, I tend to read books - I own almost all the Discworld books, and various other random things.
+<br>(Recent good books - The Dice Man by Luke Rhinehart; Stupid White Men by Michael Moore.)
+</p>I also do a bit of photography, and I've written the beginnings of a couple of short stories (but not finished), and sometimes do some drawings, and invent English spelling systems... and I'm also a rules guru for Magic: The Gathering.
+</p><b>DesPlesda</b>: Laurie Cheers, thanks for your time.
+</p><b>Laurie</b>: ok. :)
+</p>
+You can visit <a href="http://spirit.valve-erc.com/" target="_blank"><b>Spirit's Homepage here</a></b>, or DesPlesda's <a href="http://www.desplesda.com" target="_blank"><b>Website Of Death here</b></a>.

@@ -1,0 +1,61 @@
+
+<b>... ways to annoy people on mapping forums:</b>
+
+<ul>
+ <li>Argue that the 'carve' tool is the way to go, especially when using cylinders 
+ <li>Argue that the 'hollow' tool is the best and fastest way to make a building
+ <li>Argue that vending machines and crates are the best way to add detail to a map 
+ <li>Argue that killbox maps 'have superior gameplay' 
+ <li>Ask why you should bother running VIS on your map when your PC runs the level fine without it 
+ <li>Try to be clever and pretend you know what VisLeafs and NumPortals are 
+ <li>Post a reply to your new topic 5 minutes later asking 'Why won't anyone help me?!' 
+ <li>Insist on shortening 'you' to 'u' constantly and forget why full stops and commas were invented
+ <li>Post your fascinating 5mb-long log of 'leaf portal saw into leaf' compiling errors and claim to not see anything wrong
+ <li>Try to make jokes relating to map editing. It's just not funny. Especially the following list.
+</ul>
+
+<b>... signs telling you you've been mapping for too long:</b>
+<ul>
+ <li>You 'clip' your food- only idiots and small children 'carve' it
+ <li>You become convinced that pretty much anything on TV, cartoons included, would make a good level
+ <li>Your family become stuck in walls and have yellow dots floating around them
+ <li>You become worried about 'real life r_speeds'
+ <li>You reorganise your house so the 'real life r_speeds' are lower, leading to your furniture floating 1 inch off the floor
+	and indestructible crates littering your garden to block the neighbours' view. You bevel the walls, too.
+ <li>You see things in '3D flat' mode when drunk (something which will only happen when waiting for a map to compile, or if
+	you're interested by the pub/bar's architecture)
+ <li>You start up a map editing website
+ <li>You place weapons in cunning positions, complete with lava traps, around your home and workplace
+
+</ul>
+
+<b>... ways to annoy a reviewer:</b></p>
+
+<ul>
+ <li>Point out that's there's actually 12 health kits, not 11, in your map 
+ <li>Submit a map that hasn't been compiled properly 
+ <li>Submit a killbox 
+ <li>Stick in 5mb worth of custom textures and not use them in your level 
+ <li>Submit a map that means I have to copy over one of the TFC/CS wads 
+ <li>ZIP ZIPs into your ZIP that contain more ZIPs 
+ <li>Give your map the same name as one of the levels that came with Half-Life 
+ <li>Call your map 'mapname' 
+ <li>Complain about the final score 
+ <li>Continually ask why your map hasn't been reviewed yet 
+</ul>
+
+<b>... reasons why your map hasn't been reviewed yet:</b>
+
+<ul>
+ <li>Your map must have got sent to the wrong address or something... *cough* 
+ <li>Your map was so bad it caused Half-Life to stop working; I'm still waiting for the Sierra techsupport e-mail which they said would come in under 24hrs 
+ <li>Your map was so good that I'm not allowed to release it to the public for fear of causing the economy to collapse and herald in a new Golden age 
+ <li>I did it, but stupid FrontPage wrote over it 
+ <li>I did it, but I got the SirCAM virus and it deleted it. Maybe it might have sent it to you... 
+ <li>The reviewer minion I assigned it to exploded 
+ <li>My dog ate it 
+ <li>The snarks ate it 
+ <li>I couldn't be bothered
+ <li>We don't review maps anymore
+</ul>
+  
