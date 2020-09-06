@@ -1,0 +1,53 @@
+a:link, a:visited, a:active { color: #0000CC; text-decoration: none }
+A:hover { color: #BB0000; text-decoration: none }
+
+.sidebar:link, .sidebar:visited, :active.sidebar, :link.msidebar, :visited.msidebar, :active.msidebar { color: #FFFFFF; text-decoration: none }
+:hover.sidebar, :hover.msidebar { color: #F5E30A; text-decoration: none }
+
+:link.menu, :visited.menu, :active.menu { color: #FF3300; text-decoration: none }
+:hover.menu { color:#FF6600; text-decoration: none }
+
+:link.green, :visited.green, :active.green { color: #00FF00; text-decoration: none }
+:hover.green { color: #99FF33; text-decoration: none }
+
+:link.forummenu { color: #FFFFFF; text-decoration: none; font-weight:bold }
+:visited.forummenu { color: #FFFFFF; text-decoration: none }
+:active.forummenu, :hover.forummenu { color: #F5E30A; text-decoration: none }
+
+.forum:link, .forum:active, .forummenu:link { color: #0066B8; font-weight:bold; }
+.forum:visited { color:#5493B4; font-weight:bold; }
+.forum:hover { color: #E36900; text-decoration:underline; }
+
+#cat_white { color:#000000; background-color: #CCCCCC; }
+
+TEXTAREA, .textinput { FONT-FAMILY: Verdana, Tahoma, Arial; COLOR: #000000; FONT-SIZE: 10pt; BACKGROUND-COLOR: #FFFFF; BORDER: 1px solid navy; }
+SELECT, OPTION, .input { FONT-FAMILY: Verdana, Tahoma, Arial; COLOR: #000000; FONT-SIZE: 10pt; BACKGROUND-COLOR: #FFFFFF; BORDER: 0px; }
+BODY { SCROLLBAR-BASE-COLOR: #666666; SCROLLBAR-ARROW-COLOR: #F1C40E; FONT-FAMILY: Verdana; FONT-SIZE: 10pt; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px }
+TABLE { FONT-FAMILY: Verdana; FONT-SIZE: 12px } 
+FIELDSET { border: 1px solid maroon; margin: 0 0 1em 0; padding: 0em 0.8em 0.8em 0.8em; line-height: 1.5em;font-size:8pt }
+LEGEND { padding: 0.2em; font-size: 8pt; color:maroon; font-weight:bold }
+
+.headerbar { background-image:url('classic/headerbar.gif'); }
+
+.submit { FONT-FAMILY: Verdana, Tahoma, Arial; font-weight: bold; COLOR: #000000; FONT-SIZE: 10pt; BACKGROUND-COLOR: #FFFFFF; width:60px; BORDER: 0px; }
+.submit2 { FONT-FAMILY: Verdana, Tahoma, Arial; font-weight: bold; COLOR: #000000; FONT-SIZE: 10pt; BACKGROUND-COLOR: #FFFFFF; BORDER: 0px; }
+.submit3 { FONT-FAMILY: Verdana, Tahoma, Arial; font-weight: bold; COLOR: #000000; FONT-SIZE: 10pt; BACKGROUND-COLOR: #FFFFFF; BORDER: 1px solid navy; }
+
+.title { font-size:16pt; }
+.help { font-size:8pt; color:#808080; }
+.newstitle { color:#FFFFFF; font-size:12px; }
+.news { font-size:10pt; color:#000000; }
+.abouttext { font-size:8pt; line-height: 1.5em }
+.box { padding:1px; }
+.quote { position:relative; width:90%; margin:6; }
+.quotetitle { color:black; font-size:8pt; }
+.quotetext { padding:6; background-color:#EDEDED; padding:4; color:black; font-size:12px; line-height:1.5em; }
+.content { font-size:10pt; line-height:1.35em; padding:4px; }
+.dropdown { border-left:2px solid #0080FF; border-right:2px solid #0080FF; background-color:#000000; padding:2px; line-height:1.4em; z-index:1; }
+.legendbox { border:1px solid maroon; background-color:#000000; padding:2px; font-weight:bold; font-size:8pt }
+.menu { width:180px; padding:2px }
+.menubox { border-left:4px solid #0080FF; border-right:4px solid #0080FF; padding:4px; margin:0; background-color:#0066CC; font-size:8pt; line-height:1.4em }
+.menuboxtitle { background-color:#38005E; font-size:10pt; font-weight:bold; margin:0; padding:3px; }
+
+.table_header { height:30px; background-image:url('phpbb/forum_row.gif'); color:#FFA35D; }
+.table_row { background-color:#EFEFEF; font-size:8pt; }

@@ -1,0 +1,58 @@
+A:link, A:visited, .header:link, .header:visited, .forum:link { color:#4F4F4F; text-decoration:none; font-weight:bold; }
+A:hover, .header:hover, .forum:hover, .white:hover  { color:#000000; border-bottom:2px solid #FE8200; font-weight:bold; }
+
+A:active, .headerbar:active, .header:active, .forummenu:active, .forum:active { border-bottom:2px solid #18FF00; }
+
+.sidebar:link, .sidebar:visited, .header2:link, .header2:visited, .header2:active { color:#000000; text-decoration:none; border:0; }
+.sidebar:hover, .header2:hover { color: #00CC00; text-decoration:none; border:0; }
+
+.forummenu:link, .forum:link, .forum:active, .forummenu:active { color: #646664; font-weight:bold; text-decoration:none; }
+.forummenu:link, .forummenu:visited { font-variant:small-caps; }
+.forummenu:visited, .forum:visited { font-weight:normal; }
+.forummenu:hover, .forum:hover, .white:link, .white:visited, .white:active { color:#2A2A2A; text-decoration:none; }
+
+.green:link, .green:visited, .green:active { color:#00FF0C; text-decoration:none; }
+.green:hover { color:#008A06; text-decoration:none; border:0; }
+
+#cat_white { color:#FFFFFF; background-color: #CCCCCC; }
+
+.headerbar { background-color:#000000; background-image:url('condensate/headerbar.gif'); }
+
+SELECT, OPTION, .input { FONT-FAMILY: Verdana, Tahoma, Arial; COLOR: #FFCC00; FONT-SIZE:10pt; BACKGROUND-COLOR:#FFFFFF; BORDER: 0; }
+BODY { background-color:#EAEAEA; background-image:url('condensate/bg.gif'); background-repeat:repeat-x; font-family: Verdana,Arial,serif; font-size:10pt; color:#000000; margin:0; scrollbar-base-color:#000000; scrollbar-arrow-color:#000000; scrollbar-face-color:#FFFFFF; border:0; margin:0;}
+TEXTAREA, .textinput { FONT-FAMILY: courier, 'courier new'; COLOR: #000000; FONT-SIZE:10pt; BACKGROUND-COLOR: #FFFFFF; BORDER:1px dotted #000000; padding:1px; }
+SELECT, OPTION, .input { FONT-FAMILY: Verdana,Arial; COLOR: #000000; FONT-SIZE:10pt; BACKGROUND-COLOR:#FFFFFF; BORDER: 0; }
+TABLE { FONT-FAMILY: Verdana; FONT-SIZE: 12px } 
+FIELDSET { border: 1px solid #858585; margin: 0 0 1em 0; padding: 0em 0.8em 0.8em 0.8em; line-height: 1.5em;font-size:8pt }
+LEGEND { padding: 0.2em; color:#000000; font-weight:bold; font-variant:small-caps; font-size:10pt; }
+H1 { font-size:14pt; color:#272727; border-bottom:1px solid #cccccc; margin-bottom:2px; }
+FORM, PRE { margin:0; }
+
+.submit { font-weight: bold; font-family:verdana, serif; COLOR:#000000; BACKGROUND-COLOR: #FFFFFF; width:60px; BORDER:0; }
+.submit2 { font-weight: bold; font-family:verdana, serif; COLOR:#000000; BACKGROUND-COLOR: #FFFFFF; BORDER:0; }
+.submit3 { font-weight: bold; font-family:verdana, serif; COLOR:#000000; BACKGROUND-COLOR: #FFFFFF; BORDER: 1px solid black; }
+.pmbar { width:100%; background-color:#EAEAEA; padding:2px; font-variant:small-caps; margin-bottom:0; border-bottom:1px solid #cccccc; border-top:2px solid #FE8200; }
+.title { font-size:16pt; font-weight:bold; line-height:1em; }
+.subtitle { font-size:14pt;font-weight:bold; }
+.abouttext { font-size:8pt; line-height: 1.5em; color:#000000 }
+.forumtext { font-size:12px; line-height:1.5em; margin:3px }
+.content { font-size:10pt; line-height:1.35em; margin:0; padding:3px; padding-bottom:10px; border:1px solid #cccccc; border-top:0; background-color:#FFFFFF; }
+.dropdown { border:1px solid #000000; background-color:#FFFFFF; padding:2px; line-height:18px; z-index:1; font-size:8pt }
+.legendbox { border:1px solid #CCCCCC; background-color:#FFFFFF; padding:2px; font-weight:bold; font-size:8pt }
+.menu { width:180px; padding:2px; }
+.menubox, .forumbox { border:1px solid #CCCCCC; border-left:2px solid #FE8200; padding:4px; margin-top:0; margin-bottom:6px; font-size:8pt; line-height:1.3em; background-color:#FFFFFF; }
+.menuboxtitle { font-size:10pt; font-weight:bold; font-variant:small-caps; margin:0 0 0 2px; padding:0; }
+.help { font-size:8pt; line-height:1.3em; color:#545454; }
+.pre { padding:4px; margin:4px; border:1px dashed black; }
+.box { padding:1px; border:1px solid #000000; }
+.thumb { border:1px solid #3B3B3B; }
+.news { font-size:10pt; padding-left:8px; }
+.newstitle { padding-left:5px; color:#000000; }
+
+.quote { position:relative; width:90%; margin:6px; z-index:0 }
+.quotetitle { font-size:10pt; font-weight:bold; }
+.quotetext { font-size:12px; padding:4px; border:1px solid #cccccc; }
+
+.highlight { color:#FF0000; text-decoration:underline; }
+.suggestions { background-color:#000000; border:1px solid #FF0000; margin-top:2px; position:absolute; display:none; }
+.results { display:none;overflow:auto; font-size:10pt; border:1px solid #FFCC00; padding:2px }

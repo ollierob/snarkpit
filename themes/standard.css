@@ -1,0 +1,60 @@
+A:link, A:visited, A:active, .headerbar:link, .headerbar:visited, .headerbar:active { color: #F5E30A; text-decoration: none }
+A:hover, :hover.forum, :hover.forummenu, .headerbar:hover { color: #FFFF00; text-decoration: none }
+
+:link.white, :visited.white, :active.white, :link.sidebar, :visited.sidebar, :active.sidebar, .dropdown a, .dropdown a:visited, .dropdown a:active, .headerbar2:link, .headerbar2:visited, .headerbar2:active { color: #FFFFFF; text-decoration: none }
+:hover.white, :hover.sidebar, .dropdown a:hover, .headerbar2:hover { color: #FFFF00; text-decoration: none }
+
+:link.green, :visited.green, :active.green { color: #99FF33; text-decoration: none }
+:hover.green { color: #00CC00; text-decoration: none }
+
+:link.forum, :link.forummenu { font-weight:bold }
+
+#cat_white { color:#FFFFFF; background-color: maroon; }
+
+BODY { SCROLLBAR-BASE-COLOR:#666666; SCROLLBAR-ARROW-COLOR:#F1C40E; FONT-FAMILY:Verdana,Arial; font-size:10pt; COLOR:#FFFFFF; background-color:#000000; margin:0; padding:0; }
+TEXTAREA, .textinput { FONT-FAMILY: Verdana, Courier, sans-serif; COLOR: #FFFFFF; FONT-SIZE: 10pt; BACKGROUND-COLOR: #000000; BORDER: 1px solid #FFCC00; }
+SELECT, OPTION, INPUT, .input { font-family:Verdana,Arial,sans-serif; color:#FFCC00; font-size:10pt; border:0; }
+SELECT { background-color:#000000 }
+TABLE { FONT-FAMILY: Verdana; FONT-SIZE: 10pt }
+FIELDSET { border: 1px solid #50A409; margin: 0 0 1em 0; padding: 0 0.8em 0.8em 0.8em; line-height:18px; font-size:8pt }
+LEGEND { padding: 0.2em; font-size: 8pt; color:#50A409; font-weight:bold }
+HR { color:#003300 }
+H1 { color:#FFD705;font-size:16px;border-bottom:1px solid #800000;margin-bottom:2px; }
+FORM, PRE { margin:0; }
+
+.headerbar { background-color:#0E1810; background-image:url('standard/headerbar.jpg'); background-repeat:x-repeat; padding:0; }
+.headerbar_left { background-image:url('standard/headerbar_left.gif'); position:absolute; width:100px; top:0; left:0; z-index:1; }
+.headerbar_right { position:absolute; top:0; left:0; z-index:2; padding:2px; }
+
+.submit { font-weight:bold; color:#FFCC00; background-color:#000000; width:60px; BORDER: 0; }
+.submit2 { font-weight:bold; color:#FFCC00; background-color:#000000; border:0; }
+.submit3 { font-weight:bold; color:#FFCC00; background-color:#000000; border:1px solid #FFCC00; }
+.help { font-size:8pt; color:#808080; }
+.abouttext { font-size:8pt; line-height:1.5em; color:#cccccc }
+.box { padding:1px; border: 1px solid maroon; font-size:8pt; line-height:1.5em; }
+.forumtext { font-size:12px; line-height:1.5em; margin:3px }
+.news { font-size:12px; line-height:1.4em; color:#cccccc }
+.quote { position:relative; width:90%; margin:6px; background-color:#000000; border:1px solid black;z-index:0 }
+.quotetitle { color:#F5E30A; font-size:8pt; }
+.quotetext { padding:4px; background-color:#151515; color:white; font-size:12px; line-height:1.5em; }
+.code { overflow: scroll; margin-left:10px; width:550px }
+.pmbar { background-color:#81040A; padding:1px; }
+.title { font-size:14pt; }
+.subtitle { font-size:10pt; color:#50A409; font-weight:bold } 
+.content { font-size:10pt; line-height:1.35em; margin:0; padding:4px; }
+.dropdown { border:1px #7C0005 solid; padding:2px; line-height:1.4em; z-index:1; background-color:#000000; }
+.legendbox { border:1px solid #50A409; background-color:#000000; padding:2px; font-weight:bold; font-size:8pt }
+
+.smiley { vertical-align:top; border:0 }
+.pre { padding:4px; margin:4px; width:99%; border:1px dashed #808080; }
+
+.menu { padding:4px; margin:0; width:180px; }
+.menubox { margin-left:2px; padding:2px; font-size:8pt; line-height:1.3em }
+.menuboxtitle { margin-left:0; margin-top:4px; font-size:10pt; font-weight:bold; }
+.forumbox { margin-left:-6px; padding:2px; font-size:8pt; line-height:1.3em; margin-bottom:12px; }
+
+.newstitle, .thumb { }
+.highlight { color:#FF0000; text-decoration:underline; }
+.suggestions { background-color:#000000; border:1px solid #FF0000; margin-top:2px; position:absolute; display:none; }
+.results { display:none;overflow:auto; font-size:10pt; border:1px solid #FFCC00; padding:2px }
+.hidden { visibility:invisible; display:none; padding:3px }

@@ -1,0 +1,25 @@
+A:link, A:visited, A:active { color: #F5E30A; text-decoration: none }
+A:hover { color: #FFFF00; text-decoration: none }
+
+:link.white, :visited.white, :active.white, :link.sidebar, :visited.sidebar, :active.sidebar { color: #FFFFFF; }
+:hover.white, :hover.sidebar { color: #FFFF00; }
+
+:link.green, :visited.green, :active.green { color: #99FF33; text-decoration: none }
+:hover.green { color: #00CC00; text-decoration: none }
+
+:link.forum { color: #F5E30A; text-decoration: none }
+:visited.forum { color: #CC9900; text-decoration: none }
+:active.forum, :hover.forum { color: #FFFF00; text-decoration: none }
+
+#cat_white { color:#FFFFFF; background-color: maroon; }
+
+TEXTAREA, .textinput { FONT-FAMILY: Verdana, Tahoma, Arial; COLOR: #FFFFFF; FONT-SIZE: 10pt; BACKGROUND-COLOR: #000000; BORDER: 1px solid #FFCC00; }
+
+.submit { FONT-FAMILY: Verdana, Tahoma, Arial; font-weight: bold; COLOR: #FFCC00; FONT-SIZE: 10pt; BACKGROUND-COLOR: #000000; width:60px; BORDER: 0px; }
+.submit2 { FONT-FAMILY: Verdana, Tahoma, Arial; font-weight: bold; COLOR: #FFCC00; FONT-SIZE: 10pt; BACKGROUND-COLOR: #000000; BORDER: 0px; }
+.submit3 { FONT-FAMILY: Verdana, Tahoma, Arial; font-weight: bold; COLOR: #FFCC00; FONT-SIZE: 10pt; BACKGROUND-COLOR: #000000; BORDER: 1px solid #FFCC00; }
+
+SELECT, OPTION, .input { FONT-FAMILY: Verdana, Tahoma, Arial; COLOR: #FFCC00; FONT-SIZE: 10pt; BACKGROUND-COLOR: #000000; BORDER: 0px; }
+
+BODY { SCROLLBAR-BASE-COLOR: #666666; SCROLLBAR-ARROW-COLOR: #F1C40E; FONT-SIZE: 10pt; COLOR: #FFFFFF; }
+TABLE { FONT-FAMILY: Verdana; FONT-SIZE: 10pt } 
